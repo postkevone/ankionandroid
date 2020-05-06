@@ -1,5 +1,3 @@
-**instructions**
-***
 install termux, then type in the terminal the following command
 ```
 termux-setup-storage
@@ -80,7 +78,7 @@ sudo pacman -U file
 
 you can find anki in the educational software
 ***
-remember to always exit and terminate the vncserver by typing
+remember to always exit and terminate the vncserver by typing after androjaro has started
 ```
 vncserver-stop
 ```
