@@ -53,10 +53,11 @@ download ffmpeg
 
 https://archlinuxarm.org/packages/aarch64/ffmpeg
 
-install by typing (instead of "file" drag the download archive to the terminal, it will automatically generate the path directory)
+install by typing
 ```
 sudo pacman -U file
 ```
+(instead of "file" drag the download archive to the terminal, it will automatically generate the path directory)
 ***
 install mplayer
 ```
