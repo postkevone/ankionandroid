@@ -1,3 +1,6 @@
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0RNs27woiJ4/0.jpg)](https://www.youtube.com/watch?v=0RNs27woiJ4)
+
+
 install termux, then type in the terminal the following command
 ```
 termux-setup-storage
