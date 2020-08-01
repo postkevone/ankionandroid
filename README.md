@@ -1,4 +1,4 @@
-This is a guide on how you can run Anki on android using Termux and the andronix modded version of Manjaro
+This is a guide on how you can run Anki on android using Termux and the andronix modded version of Manjaro (also called "Androjaro")
 ***
 **YouTube Tutorial**
 
@@ -14,7 +14,7 @@ termux-setup-storage
 apt update && apt upgrade
 ```
 ・Install the andronix app<br/>
-・Install modded manjaro (it costs 2$ but this tutorial should also work with free version)<br/>
+・Install modded manjaro (it costs 2$ but this tutorial should also work with the free version as well)<br/>
 ・Paste the token into Termux and wait until the download is completed<br/>
 ・Start androjaro
 ```
@@ -54,7 +54,7 @@ sudo pacman -S mplayer
 ```
 sudo pacman -U filename
 ```
-(drag the downloaded file into the terminal, it will automatically generate the path directory)
+(drag the downloaded file into the terminal, it will automatically generate the path directory)<br/>
 ・You can now access anki from the Educational Software folder<br/>
 ・When you're done, remember to always terminate the vncserver by typing:
 ```
