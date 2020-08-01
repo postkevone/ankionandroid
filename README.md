@@ -1,4 +1,4 @@
-This is a guide on how you can run Anki on android using Termux and the andronix modded version of Manjaro (also called "Androjaro")
+This is a guide on how you can run Anki on android using Termux and the andronix modded version of Manjaro (also known as "Androjaro")
 ***
 **YouTube Tutorial**
 
