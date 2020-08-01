@@ -47,13 +47,14 @@ sudo pacman -Syu && sudo pacman-key --init && sudo pacman-key --populate && sudo
 ```
 sudo pacman -S mplayer
 ```
+・Download anki arm version https://archlinuxarm.org/packages/any/anki<br/>
 ・Download ffmpeg from https://archlinuxarm.org/packages/aarch64/ffmpeg<br/>
 ・Download noto fonts for asian characters (chinese, japanese, korean) (optional) https://archlinuxarm.org/packages/any/noto-fonts-cjk<br/>
-・Download anki arm version https://archlinuxarm.org/packages/any/anki<br/>
-・Install the packages by typing (drag the downloaded file into the terminal, it will automatically generate the path directory)
+・Install the packages by typing:
 ```
 sudo pacman -U filename
 ```
+(drag the downloaded file into the terminal, it will automatically generate the path directory)
 ・You can now access anki from the Educational Software folder<br/>
 ・When you're done, remember to always terminate the vncserver by typing:
 ```
